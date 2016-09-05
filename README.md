@@ -5,4 +5,4 @@ This app uses a simple linear regression using the Model Year and Vehicle Mileag
 
 Admittedly a very limited application, but a quick fun way to use data science to help a friend buy a car.
 
-This app is alsot hosted at shinyapps.io - [CarBuyer](http://dataken.shinyapps.io/CarBuyer)
+This app is also hosted at shinyapps.io - [CarBuyer](http://dataken.shinyapps.io/CarBuyer)
